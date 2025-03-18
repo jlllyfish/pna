@@ -1,0 +1,6 @@
+--only-binary=:all:
+streamlit>=1.30.0
+pandas>=2.2.0
+geopandas>=0.14.0
+shapely>=2.0.2
+geopy>=2.4.0
